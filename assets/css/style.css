@@ -1,3 +1,9 @@
-.crystal{
-    border: 2 px, grey;
+.image1{
+    background: grey;
+    color: grey;
+
+}
+row{
+    padding: 12px;
+    
 }
